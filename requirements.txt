@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic-settings
+langgraph
+langchain-openai
+langchain-groq
+pinecone
+tavily-python
+pymupdf
+certifi
+openai
+httpx
+langchain
+langchain-ollama
