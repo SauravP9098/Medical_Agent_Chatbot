@@ -14,3 +14,7 @@ openai
 httpx
 langchain
 langchain-ollama
+langchain-huggingface
+sentence-transformers
+langchain-groq
+langchain-community
